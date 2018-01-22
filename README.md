@@ -14,7 +14,7 @@ Easily customize the feel and look of your activity by making your activity floa
   **Step 2: Add the dependency to your dependencies in the build.gradle (Module:App level)**
 
 	dependencies {
-	       compile 'com.github.JamperCin:FloatingSwipeActivity:1.0.0'
+	       compile 'com.github.JamperCin:FloatingSwipeActivity:1.0.1'
 	}
   
  
