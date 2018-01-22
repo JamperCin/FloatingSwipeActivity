@@ -2,9 +2,9 @@ package floatswipe.com.jamper.floatingswipeactivity;
 
 import android.os.Bundle;
 
-import floatswipe.com.jamper.floatingswipedactivity.UI.FloatingSwipeActivity;
+import floatswipe.com.jamper.floatingswipedactivity.UI.FloatingActivity;
 
-public class TestActivity extends FloatingSwipeActivity {
+public class TestActivity extends FloatingActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
